@@ -1,0 +1,3 @@
+The resulting text: 
+First: This is the first file with some text! 
+Second:This is the second file with some text!
